@@ -77,7 +77,7 @@ class BiodataScreen extends StatelessWidget {
                   SizedBox(height: 15),
 
                   Text(
-                    'Full Name: YOUR NAME',
+                    'Full Name: TRIXCY B. ABEJUELA',
                     style: TextStyle(fontSize: 17),
                   ),
 
